@@ -41,7 +41,11 @@ Armed with knowledge as to the location of the counterfactual, the algorithm sea
 ### (3) Enhance
 The optimal path through the graph is found.
 
+![paper_figure_strict_graph_unzoom](https://github.com/Teddyzander/localFACE/assets/49641102/2e6dd25b-bbb5-44b0-952e-525c72be165a)
+
 ## Case Study
 
 We present localFACE on a model which predicts a patient's readiness for discharge. LocalFACE finds a counterfactual,
 and allows a clinician to understand the model's reasoning by querying the suggested changes via the hypothetical algorithmic recourse.
+
+![RFD_feats5_seed40](https://github.com/Teddyzander/localFACE/assets/49641102/b19d1830-583f-4c4c-afdd-b476568cb1f9)
